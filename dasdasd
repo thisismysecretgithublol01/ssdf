@@ -1,4 +1,4 @@
-local range = Value
+local range = valourious
 
     local player = game:GetService("Players").LocalPlayer
     
